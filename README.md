@@ -1,2 +1,2 @@
 # excel
-with Qt
+with Qt by barry
